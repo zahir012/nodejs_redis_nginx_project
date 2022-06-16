@@ -2,16 +2,16 @@
 
 # Project structure
 .
-├── docker-compose.yml
-├── redis 
-├── nginx
-│   ├── Dockerfile
-│   └── nginx.conf
-├── web1
-│   ├── Dockerfile
-│   ├── package.json
-│   └── server.js
-└── web2
-    ├── Dockerfile
-    ├── package.json
-    └── server.js
+   ├── docker-compose.yml
+   ├── redis 
+   ├── nginx
+   │   ├── Dockerfile
+   │   └── nginx.conf
+   ├── web1
+   │   ├── Dockerfile
+   │   ├── package.json
+   │   └── server.js
+   └── web2
+       ├── Dockerfile
+       ├── package.json
+       └── server.js
